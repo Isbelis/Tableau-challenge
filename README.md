@@ -24,3 +24,7 @@ https://public.tableau.com/app/profile/isbelis.castro/viz/CITIBIKE-TABLEAU-CHALL
 This repository also contains the file `CITIBIKE-TABLEAU-CHALLENGE-18.twb`. Additionally, the `Resources` folder contains the sample dataset and its corresponding notebook.
 
 I hope this project will be helpful for anyone interested in this topic or using Tableau for similar analyses.
+
+# References: 
+ - Citibike NYC System Data. https://citibikenyc.com/system-data
+ -  2024 edX Boot Camps LLC

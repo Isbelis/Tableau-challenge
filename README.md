@@ -17,8 +17,10 @@ Each dashboard includes four filters: rider type (member or casual), rideable ty
 
 You can view this challenge at the following Tableau link:
 
+
 https://public.tableau.com/app/profile/isbelis.castro/viz/CITIBIKE-TABLEAU-CHALLENGE-18/CITIBIKEANALYSIS?publish=yes
 
-This repository also contains the file `CITIBIKE-TABLEAU-CHALLENGE-18.twb`.
+
+This repository also contains the file `CITIBIKE-TABLEAU-CHALLENGE-18.twb`. Additionally, the `Resources` folder contains the sample dataset and its corresponding notebook.
 
 I hope this project will be helpful for anyone interested in this topic or using Tableau for similar analyses.

@@ -6,12 +6,16 @@ The Tableau challenge involves analyzing a sample dataset from 2023 provided by 
 
 To explore these phenomena, I created a Tableau story that includes four dashboards:
 **General Information:** This dashboard presents descriptive statistics such as total riders, trip duration in hours, total distance traveled, total stations, total start and end stations, and rider distribution. It also provides information on the average and median trip duration by rideable type. See the image below for more details.
+![alt text](image.png)
 
 **Geographical Analysis:** This map-based dashboard analyzes the average ride length, average trip duration in seconds, and rider count for each start station.
+![alt text](image-1.png)
 
 **Seasonality Analysis:** This dashboard reveals trends in the most popular hours and days when riders use the Citibike program or start their trips. It also indicates the most popular start stations by weekday or weekend and provides a monthly distance analysis and weekly rider type frequency.
+![alt text](image-2.png)
 
 **Citibike Popularity Analysis:** This dashboard examines the second phenomenon, focusing on Citibike popularity. It identifies the most popular start and end stations individually and their connections, categorized by rideable type.
+![alt text](image-3.png)
 
 Each dashboard includes four filters: rider type (member or casual), rideable type, month of trip start, and weekday or weekend.
 

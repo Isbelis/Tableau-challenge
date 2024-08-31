@@ -45,7 +45,7 @@ To explore these phenomena, I created a Tableau story that includes four dashboa
 
 Each dashboard includes four filters: rider type (member or casual), rideable type, month of trip start, and weekday or weekend.
 
-You can view this challenge at the following Tableau link:
+### You can view this challenge at the following Tableau link:
 
 
 https://public.tableau.com/views/CITIBIKE-TABLEAU-CHALLENGE-18/CITIBIKEANALYSIS?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link

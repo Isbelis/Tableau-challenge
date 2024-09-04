@@ -18,7 +18,8 @@ To explore these phenomena, I created a Tableau story that includes four dashboa
 **Geographical Analysis:** This map-based dashboard analyzes the average ride length, average trip duration in seconds, and rider count for each start station.
 
 
-![image](https://github.com/user-attachments/assets/9b2b1f98-f847-4b94-b240-ada44e380853)
+![image](https://github.com/user-attachments/assets/8fc0658f-4e62-43a0-bc6f-5f70059233e6)
+
 
 
 
